@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/logo.png" width="200"/>
 </a></p>
 
-<h1 align="center">SocialFish Mobile</h1>
+<h1 align="center">Social Mobile</h1>
 <p align="center">
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Flutter-1.x-blue.svg">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center" style="color: gray;">
-This app is an open-source project to remote control SocialFish, it does not work independently.
+This app is an open-source project to remote control Social, it does not work independently.
 </p>
 
 <br/>
@@ -60,7 +60,7 @@ $ flutter build apk --release
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-The use of the SocialFish is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+The use is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
 
 "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
 FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
@@ -71,14 +71,13 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 Taken from [LICENSE](LICENSE).
 
-## SocialFish
-Are you looking for SocialFish? [UndeadSec/SocialFish][sf-web]
+
 
 ## FAQ
-> #### Which technology is used to develop the SocialFish Mobile app?
-> SocialFish Mobile it's written in [`Dart`](https://www.dartlang.org/) and are build using a Google's framework called [`Flutter`](https://flutter.dev).
+> #### Which technology is used to develop the Social Mobile app?
+> Social Mobile it's written in [`Dart`](https://www.dartlang.org/) and are build using a Google's framework called [`Flutter`](https://flutter.dev).
 
-> #### Why does SocialFish Mobile request camera permission?
+> #### Why does Social Mobile request camera permission?
 > The camera permission are described in `AndroidManifest.xml` file, it's required to scan the token qrcode.
 
 > #### How can i get an compiled apk?
